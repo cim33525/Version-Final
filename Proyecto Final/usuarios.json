@@ -1,0 +1,62 @@
+[
+    {
+        "id_usuario": 0,
+        "usuario": 1212577,
+        "clave": "jefeadm989",
+        "info": "Administrador"
+    },
+    {
+        "id_usuario": 1,
+        "usuario": 38752321,
+        "clave": "natu55perez",
+        "info": "Usuario1"
+    },
+    {
+        "id_usuario": 2,
+        "usuario": 19205489,
+        "clave": "stelly22a",
+        "info": "Usuario2"
+    },
+    {
+        "id_usuario": 3,
+        "usuario": 24021865,
+        "clave": "norber89g",
+        "info": "Usuario3"
+    },
+    {
+        "id_usuario": 4,
+        "usuario": 35455322,
+        "clave": "wili96rs",
+        "info": "Usuario4"
+    },
+    {
+        "id_usuario": 5,
+        "usuario": 14258367,
+        "clave": "dto1jmg",
+        "info": "Usuario5"
+    },
+    {
+        "id_usuario": 6,
+        "usuario": 9327586,
+        "clave": "niconico77",
+        "info": "Usuario6"
+    },
+    {
+        "id_usuario": 7,
+        "usuario": 31319564,
+        "clave": "22jmarquez",
+        "info": "Usuario7"
+    },
+    {
+        "id_usuario": 8,
+        "usuario": 20019213,
+        "clave": "mascota1144",
+        "info": "Usuario8"
+    },
+    {
+        "id_usuario": 9,
+        "usuario": 34817922,
+        "clave": "edificiomar11",
+        "info": "Usuario9"
+    }
+]

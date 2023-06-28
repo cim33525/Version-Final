@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "usuario_dni": "38752321",
+        "fecha": "22/06/2023",
+        "fecha_de_comprobante": "",
+        "monto_abonado": "",
+        "DPTO": ""
+    },
+    {
+        "id": 2,
+        "usuario_dni": "19205489",
+        "fecha": "27/06/2023",
+        "fecha_de_comprobante": "27/06/2023",
+        "monto_abonado": "21350",
+        "DEPTO": "local 1"
+    }
+]

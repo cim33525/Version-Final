@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "consorcio": "La Pampa 1980",
+        "servicio": "Ascensores",
+        "proveedor": "Testa SA",
+        "telefono": "1111-2222",
+        "info": "4857-3221 Emergencia"
+    },
+    {
+        "id": 2,
+        "consorcio": "La Pampa 1980",
+        "servicio": "Limpieza de tanques",
+        "proveedor": "Calden SRL",
+        "telefono": "1112-2223",
+        "info": ""
+    },
+    {
+        "id": 3,
+        "consorcio": "La Pampa 1980",
+        "servicio": "Desinfeccion",
+        "proveedor": "Calden SRL",
+        "telefono": "1112-2223",
+        "info": ""
+    },
+    {
+        "id": 4,
+        "consorcio": "La Pampa 1980",
+        "servicio": "Encargado",
+        "proveedor": "Ramon Garcia",
+        "telefono": "1112-2224",
+        "info": "Horario Lunes a Viernes de 15 a 20 hs"
+    },
+    {
+        "id": 5,
+        "consorcio": "La Pampa 1980",
+        "servicio": "Administracion",
+        "proveedor": "Administracion 7PM SA",
+        "telefono": "1111-2224",
+        "info": "1140321893 Urgencias / 5281-8152 atencion Lunes a Viernes 10 a 14 hs"
+    },
+    {
+        "id": 6,
+        "consorcio": "Quintana 422",
+        "servicio": "Ascensores",
+        "proveedor": "ThyssenKrupp SA",
+        "telefono": "1112-2225",
+        "info": "0810-234-4587 Emergencias"
+    },
+    {
+        "id": 7,
+        "consorcio": "Quintana 422",
+        "servicio": "Montaautos",
+        "proveedor": "ThyssenKrupp SA",
+        "telefono": "1112-2225",
+        "info": "0810-234-4587 Emergencias"
+    },
+    {
+        "id": 8,
+        "consorcio": "Quintana 422",
+        "servicio": "Piscina",
+        "proveedor": "Piletas Champuzon SA",
+        "telefono": "1112-2226",
+        "info": ""
+    },
+    {
+        "id": 9,
+        "consorcio": "Quintana 422",
+        "servicio": "Vigilancia",
+        "proveedor": "Prosegur SRL",
+        "telefono": "1111-2226",
+        "info": ""
+    },
+    {
+        "id": 10,
+        "consorcio": "Quintana 422",
+        "servicio": "Empresa de limpieza",
+        "proveedor": "Ohlimpia SRL",
+        "telefono": "1112-2227",
+        "info": ""
+    },
+    {
+        "id": 11,
+        "consorcio": "Quintana 422",
+        "servicio": "Limpieza de tanques",
+        "proveedor": "Ozzy SRL",
+        "telefono": "1111-2227",
+        "info": ""
+    },
+    {
+        "id": 12,
+        "consorcio": "Quintana 422",
+        "servicio": "Desinfeccion",
+        "proveedor": "Calden SRL",
+        "telefono": "1112-2223",
+        "info": ""
+    },
+    {
+        "id": 13,
+        "consorcio": "Callao 1234",
+        "servicio": "Ascensores",
+        "proveedor": "Gelec SRL",
+        "telefono": "1111-2228",
+        "info": "5237-8999 Emergencias"
+    },
+    {
+        "id": 14,
+        "consorcio": "Callao 1234",
+        "servicio": "Encargado",
+        "proveedor": "Anabela Sanchez",
+        "telefono": "1112-2229",
+        "info": "Horario Sabados de 8 a 15 hs y Domingos de 18 a 21 hs"
+    },
+    {
+        "id": 15,
+        "consorcio": "Callao 1234",
+        "servicio": "Limpieza de tanques",
+        "proveedor": "Lomat SA",
+        "telefono": "1111-2229",
+        "info": ""
+    },
+    {
+        "id": 16,
+        "consorcio": "Callao 1234",
+        "servicio": "Desinfeccion",
+        "proveedor": "Termitek SA",
+        "telefono": "1115-8982",
+        "info": ""
+    },
+    {
+        "id": 17,
+        "consorcio": "Quintana 422",
+        "servicio": "Encargado",
+        "proveedor": "Juan Rodriguez",
+        "telefono": "2221-8876",
+        "info": "Horario Lunes a Viernes de 15 a 20 hs"
+    }
+]

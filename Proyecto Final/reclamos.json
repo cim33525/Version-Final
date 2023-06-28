@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "fecha": "",
+        "cometarios": "",
+        "usuario": "",
+        "contacto": ""
+    },
+    {
+        "id": 2,
+        "fecha": "22/06/2023",
+        "comentarios": "mi reclamo es que el agua tiene olor feo, me parece que el tanque de agua no se limpia desde hace un buen tiempo",
+        "usuario": "federico G",
+        "contacto": "a mi telefono 1166-9999"
+    },
+    {
+        "id": 3,
+        "fecha": "22/06/2023",
+        "comentarios": "Los pasillos del edificio los dias Martes estan sucios, me parece que el encargado no controlo que venga la chica de limpieza",
+        "usuario": "chilitadel89",
+        "contacto": "a mi mail, pepilalajusticiera@hotmail.com"
+    },
+    {
+        "id": 4,
+        "fecha": "28/06/2023",
+        "comentarios": "la cerradura de la puerta de calle no puede abrirse con facilidad desde afuera.",
+        "usuario": "35455322",
+        "contacto": "greengrey3@hotmail.com"
+    }
+]
